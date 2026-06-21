@@ -12,5 +12,5 @@ I'm passionate about cybersecurity and emerging technologies.
 - Cryptography fundamentals
 
 ## 🔹 Connect with me
-- LinkedIn: (https://www.linkedin.com/in/felciaharini0710)
-- Email: (felciaharini07@gmail.com)
+- LinkedIn:(https://www.linkedin.com/in/hariniedward07)
+- Email: (hariniedward@gmail.com)

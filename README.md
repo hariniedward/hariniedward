@@ -1,144 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=HARINI%20EDWARD&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=Digital%20Forensic%20Science%20%26%20Cybersecurity%20Graduate&descAlignY=55&descSize=18&descColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07141B,45:0A7EA4,100:00D9FF&height=220&section=header&text=HARINI%20EDWARD&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Security%20Analyst%20%7C%20Digital%20Forensics&descAlignY=56&descSize=18&descColor=C9F4FF&animation=fadeIn" width="100%" alt="Harini Edward - SOC Analyst, Security Analyst and Digital Forensics" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40hariniedward%3A~%23+whoami;B.Sc.+Digital+Forensic+Science+%26+Cybersecurity;Open+to+Work+%7C+Actively+Job+Hunting;Turning+Curiosity+Into+Countermeasures" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/hariniedward07"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hariniedward@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/hariniedward?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-101820?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Projects" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hariniedward&color=00FF41&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)
-![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF41?style=for-the-badge&logo=googlejobs&logoColor=black)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariniedward07)
-[![Gmail](https://img.shields.io/badge/EMAIL-REACH_OUT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariniedward@gmail.com)
+<br /><br />
 
-</div>
-
-<br>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  SYSTEM PROFILE: HARINI EDWARD                                    │
-│  ROLE: Digital Forensics & Cybersecurity Analyst                  │
-│  STATUS: Open to full-time roles & internships                    │
-│  CLEARANCE: B.Sc. Digital Forensic Science & Cybersecurity         │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-## `0x00` — About This Operator
-
-I'm Harini — a cybersecurity and digital forensics graduate who builds things most people are told to just study in theory. While earning my degree, I spent my time turning coursework into working systems: evidence platforms that enforce legal chain-of-custody at the database level, threat intelligence tools that score risk the way a real SOC would.
-
-I'm not interested in security as a checkbox. I'm interested in it as an engineering discipline — where every design decision has to survive someone actively trying to break it.
-
-**Currently looking for my next role** — something where I can bring that same rigor to a real team, real infrastructure, real stakes.
-
-```yaml
-degree:              B.Sc. Digital Forensic Science & Cybersecurity
-institution:          Rev. Jacob Memorial Christian College (MKU)
-status:               Open to Work — Full-time & Internship roles
-approach:             Assume breach. Design for evidence. Trust nothing blindly.
-looking_for:          SOC Analyst · Threat Intel · Digital Forensics · Cybersecurity roles
-```
-
-<br>
-
-## `0x01` — Technical Arsenal
-
-<div align="center">
-
-**Languages & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Security Operations**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge)
-
-**Network & Infrastructure**
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4A90D9?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-4A90D9?style=for-the-badge)
-![DHCP](https://img.shields.io/badge/DHCP-4A90D9?style=for-the-badge)
-![Firewalls](https://img.shields.io/badge/Firewalls-orange?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-orange?style=for-the-badge)
-
-**Development & Data**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-6E40C9?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-SOC_%7C_SECURITY_%7C_DFIR-00D9FF?style=flat-square&labelColor=07141B)
+![Location](https://img.shields.io/badge/LOCATION-DINDIGUL%2C_TAMIL_NADU-8B5CF6?style=flat-square&labelColor=07141B)
+![Profile Views](https://komarev.com/ghpvc/?username=hariniedward&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-<br>
+## `// ABOUT_ME`
 
-## `0x02` — Operational Focus
+I am **Harini Edward**, a **B.Sc. Computer Science (Digital Forensic Science & Cybersecurity)** graduate focused on SOC operations, detection engineering, threat intelligence, digital forensics, and security automation. I build practical, portfolio-grade systems that connect security monitoring with evidence integrity, legal compliance, and analyst-ready reporting.
 
-```
-├── Digital Forensics
-│     └── Evidence integrity · Chain of custody · Legal admissibility (BSA/IT Act)
-│
-├── Threat Intelligence
-│     └── Dark web monitoring · Risk scoring · Incident response playbooks
-│
-├── Blue Team Operations
-│     └── SIEM tooling (Splunk, QRadar) · Anomaly detection · MITRE ATT&CK mapping
-│
-└── Secure Systems Design
-      └── Encryption at rest · Access control · Tamper-evident logging
-```
+- ðŸ”µ **SOC Operations:** SIEM monitoring, alert triage, log analysis, incident response, and threat hunting
+- ðŸ§  **Detection Engineering:** Wazuh custom rules, MITRE ATT&CK mapping, SPL fundamentals, and validation labs
+- ðŸ”¬ **Digital Forensics:** Evidence acquisition, chain of custody, cryptographic integrity, and BSA Section 63 compliance
+- ðŸŒ **Security Engineering:** Vulnerability assessment, network analysis, risk scoring, and secure system design
+- âš™ï¸ **Automation:** Python, Flask, SQL, SQLite, REST APIs, Bash, and Docker
+- ðŸŽ¯ **Seeking:** Entry-level SOC Analyst, Security Analyst, or DFIR opportunities
 
-<br>
+## `// FEATURED_PROJECTS`
 
-## `0x03` — Featured Deployments
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 â€” [Detonate & Detect](https://github.com/hariniedward/detonate-and-detect)
+
+**SOC Detection Engineering Lab with Wazuh**
+
+Built a Docker-based Wazuh home SOC lab and engineered three custom detection rules for encoded execution, reconnaissance chaining, and cron persistence. Validated live alerts and mapped coverage to MITRE ATT&CK.
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/hariniedward/detonate-and-detect)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 â€” [Sakshya63](https://github.com/hariniedward/sakshya63)
+
+**Digital Evidence Custody & Certification System**
+
+Court-admissibility-focused evidence platform with AES-256-GCM encryption, ECDSA signatures, hash-chained custody ledgers, Merkle integrity checks, TOTP MFA, and automated BSA Section 63 certification.
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/hariniedward/sakshya63)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 â€” [Cyber Threat Intelligence Platform](https://github.com/hariniedward/cyber-threat-intelligence-platform)
+
+**Dark Web Data Leak Detection & Risk Intelligence**
+
+Python and Flask platform that detects synthetic leak indicators, calculates a Weighted Severity Index, supports incident response workflows, and produces PDF/Excel compliance reports.
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/hariniedward/cyber-threat-intelligence-platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 â€” Web Application Vulnerability Multi-Scanner
+
+**OWASP-Focused Security Scanner**
+
+Flask-based multi-scanner for crawling, feature extraction, and detection of SQL injection, XSS, broken authentication, and security misconfigurations, with severity classification and role-based access.
+
+![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## `// TECHNICAL_STACK`
+
+| Domain | Skills & Tools |
+|---|---|
+| **SIEM & Detection** | Wazuh, Splunk, IBM QRadar, alert triage, log analysis, custom detection rules |
+| **Digital Forensics** | Evidence acquisition, chain of custody, cryptographic integrity verification, BSA Section 63 |
+| **Network Security** | TCP/IP, DNS, DHCP, firewalls, VPN, IDS/IPS concepts, Wireshark, Nmap |
+| **Programming & Automation** | Python, Flask, SQL, SQLite, REST APIs, Bash, Docker |
+| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain, NIST CSF, OWASP Top 10 |
+| **Systems** | Linux administration, Windows, Kali Linux |
+| **Compliance & Risk** | IT Act 2000, DPDP Act 2023, CERT-In guidelines, risk assessment |
 
 <div align="center">
 
-<a href="https://github.com/hariniedward/cyber-threat-intelligence-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hariniedward&repo=cyber-threat-intelligence-platform&theme=dark&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/hariniedward/sakshya63">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hariniedward&repo=sakshya63&theme=dark&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" />
-</a>
+<img src="https://skillicons.dev/icons?i=py,flask,mysql,sqlite,bash,docker,linux,kali,windows,github&theme=dark&perline=10" alt="Harini's technical stack" />
 
 </div>
 
-<br>
+## `// HANDS_ON_EXPERIENCE`
 
-## `0x04` — Activity Log
+### Security Lab Practice - SOC & Digital Forensics
 
-<div align="center">
+**Independent / TryHackMe**
 
-<img src="https://github-readme-stats.vercel.app/api?username=hariniedward&show_icons=true&theme=dark&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+- Practiced SOC Level 1 and Blue Team workflows including alert monitoring, triage, and SPL query writing in Splunk
+- Analyzed Windows Event Logs to trace lateral movement and identify malware indicators
+- Applied MITRE ATT&CK-mapped investigation and containment procedures
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hariniedward&theme=dark&border=00FF41&background=0D1117&ring=00FF41&fire=00FF41&stroke=00FF41" />
+### Full Stack Development Intern
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariniedward&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" />
+**Livestream Technology, Coimbatore - June 2025**
 
-</div>
+- Assisted with web application development, testing, debugging, documentation, and maintenance
 
-<br>
+## `// EDUCATION_AND_CREDENTIALS`
 
-## `0x05` — Guiding Principle
+**B.Sc. Computer Science (Digital Forensic Science & Cybersecurity) - 2026**  
+Rev. Jacob Memorial Christian College, Ambilikkai  
+Affiliated with Madurai Kamaraj University | **CGPA: 7.6**
 
-<div align="center">
+### Certifications
 
+- IBM zSystems Cybersecurity Insights Certification
+- Agentblazer Champion - Yuva AI Bharat (Generative AI & Enterprise AI)
+
+### Achievements
+
+- R.V. Mahendra Kumar Memorial Prize
+- Triple First Class Award - Parts I-III
+- Semester II and III Proficiency Certificates - Madurai Kamaraj University, 2023-2026
+
+## `// OPERATING_PRINCIPLE`
+
+```text
+MONITOR â†’ DETECT â†’ INVESTIGATE â†’ PRESERVE EVIDENCE â†’ RESPOND
 ```
-"Evidence doesn't lie. Systems don't forget.
- The job isn't to hide the truth — it's to make sure it can be proven."
-```
 
-</div>
-
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" />
+### `harini@soc:~$ connect --secure`
 
-**Hiring? Let's talk — I'm ready to bring this to a real team.**
+**Open to SOC, cybersecurity, digital forensics, threat intelligence, and security analyst opportunities.**
+
+[LinkedIn](https://www.linkedin.com/in/hariniedward07) Â· [Email](mailto:hariniedward@gmail.com) Â· [Projects](https://github.com/hariniedward?tab=repositories)
+
+<sub>EVIDENCE-DRIVEN // DETECTION-FOCUSED // READY TO LEARN</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,55:0A7EA4,100:07141B&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>

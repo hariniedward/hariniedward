@@ -8,88 +8,115 @@
 
 <br /><br />
 
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-SOC_%7C_SECURITY_%7C_DFIR-00D9FF?style=flat-square&labelColor=07141B)
-![Location](https://img.shields.io/badge/LOCATION-DINDIGUL%2C_TAMIL_NADU-8B5CF6?style=flat-square&labelColor=07141B)
-![Profile Views](https://komarev.com/ghpvc/?username=hariniedward&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+
+
+
 
 </div>
 
-## `// ABOUT_ME`
+// ABOUT_ME
 
-I am **Harini Edward**, a **B.Sc. Computer Science (Digital Forensic Science & Cybersecurity)** graduate focused on SOC operations, detection engineering, threat intelligence, digital forensics, and security automation. I build practical, portfolio-grade systems that connect security monitoring with evidence integrity, legal compliance, and analyst-ready reporting.
+I am Harini Edward, a B.Sc. Computer Science (Digital Forensic Science & Cybersecurity) graduate focused on SOC operations, detection engineering, threat intelligence, digital forensics, and security automation. I build practical, portfolio-grade systems that connect security monitoring with evidence integrity, legal compliance, and analyst-ready reporting.
 
-- ðŸ”µ **SOC Operations:** SIEM monitoring, alert triage, log analysis, incident response, and threat hunting
-- ðŸ§  **Detection Engineering:** Wazuh custom rules, MITRE ATT&CK mapping, SPL fundamentals, and validation labs
-- ðŸ”¬ **Digital Forensics:** Evidence acquisition, chain of custody, cryptographic integrity, and BSA Section 63 compliance
-- ðŸŒ **Security Engineering:** Vulnerability assessment, network analysis, risk scoring, and secure system design
-- âš™ï¸ **Automation:** Python, Flask, SQL, SQLite, REST APIs, Bash, and Docker
-- ðŸŽ¯ **Seeking:** Entry-level SOC Analyst, Security Analyst, or DFIR opportunities
+🔵 SOC Operations: SIEM monitoring, alert triage, log analysis, incident response, and threat hunting
 
-## `// FEATURED_PROJECTS`
+🧠 Detection Engineering: Wazuh custom rules, MITRE ATT&CK mapping, SPL fundamentals, and validation labs
+
+🔬 Digital Forensics: Evidence acquisition, chain of custody, cryptographic integrity, and BSA Section 63 compliance
+
+🌐 Security Engineering: Vulnerability assessment, network analysis, risk scoring, and secure system design
+
+⚙️ Automation: Python, Flask, SQL, SQLite, REST APIs, Bash, and Docker
+
+🎯 Seeking: Entry-level SOC Analyst, Security Analyst, or DFIR opportunities
+
+// FEATURED_PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 â€” [Detonate & Detect](https://github.com/hariniedward/detonate-and-detect)
+01 — Detonate & Detect
 
-**SOC Detection Engineering Lab with Wazuh**
+SOC Detection Engineering Lab with Wazuh
 
 Built a Docker-based Wazuh home SOC lab and engineered three custom detection rules for encoded execution, reconnaissance chaining, and cron persistence. Validated live alerts and mapped coverage to MITRE ATT&CK.
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/hariniedward/detonate-and-detect)
+
 
 </td>
 <td width="50%" valign="top">
 
-### 02 â€” [Sakshya63](https://github.com/hariniedward/sakshya63)
+02 — Sakshya63
 
-**Digital Evidence Custody & Certification System**
+Digital Evidence Custody & Certification System
 
 Court-admissibility-focused evidence platform with AES-256-GCM encryption, ECDSA signatures, hash-chained custody ledgers, Merkle integrity checks, TOTP MFA, and automated BSA Section 63 certification.
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/hariniedward/sakshya63)
+
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 â€” [Cyber Threat Intelligence Platform](https://github.com/hariniedward/cyber-threat-intelligence-platform)
+03 — Cyber Threat Intelligence Platform
 
-**Dark Web Data Leak Detection & Risk Intelligence**
+Dark Web Data Leak Detection & Risk Intelligence
 
 Python and Flask platform that detects synthetic leak indicators, calculates a Weighted Severity Index, supports incident response workflows, and produces PDF/Excel compliance reports.
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-VIEW-101820?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/hariniedward/cyber-threat-intelligence-platform)
+
 
 </td>
 <td width="50%" valign="top">
 
-### 04 â€” Web Application Vulnerability Multi-Scanner
+04 — Web Application Vulnerability Multi-Scanner
 
-**OWASP-Focused Security Scanner**
+OWASP-Focused Security Scanner
 
 Flask-based multi-scanner for crawling, feature extraction, and detection of SQL injection, XSS, broken authentication, and security misconfigurations, with severity classification and role-based access.
 
-![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+
+
 
 </td>
 </tr>
 </table>
 
-## `// TECHNICAL_STACK`
+// TECHNICAL_STACK
 
-| Domain | Skills & Tools |
-|---|---|
-| **SIEM & Detection** | Wazuh, Splunk, IBM QRadar, alert triage, log analysis, custom detection rules |
-| **Digital Forensics** | Evidence acquisition, chain of custody, cryptographic integrity verification, BSA Section 63 |
-| **Network Security** | TCP/IP, DNS, DHCP, firewalls, VPN, IDS/IPS concepts, Wireshark, Nmap |
-| **Programming & Automation** | Python, Flask, SQL, SQLite, REST APIs, Bash, Docker |
-| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain, NIST CSF, OWASP Top 10 |
-| **Systems** | Linux administration, Windows, Kali Linux |
-| **Compliance & Risk** | IT Act 2000, DPDP Act 2023, CERT-In guidelines, risk assessment |
+Domain
+
+Skills & Tools
+
+SIEM & Detection
+
+Wazuh, Splunk, IBM QRadar, alert triage, log analysis, custom detection rules
+
+Digital Forensics
+
+Evidence acquisition, chain of custody, cryptographic integrity verification, BSA Section 63
+
+Network Security
+
+TCP/IP, DNS, DHCP, firewalls, VPN, IDS/IPS concepts, Wireshark, Nmap
+
+Programming & Automation
+
+Python, Flask, SQL, SQLite, REST APIs, Bash, Docker
+
+Frameworks
+
+MITRE ATT&CK, Cyber Kill Chain, NIST CSF, OWASP Top 10
+
+Systems
+
+Linux administration, Windows, Kali Linux
+
+Compliance & Risk
+
+IT Act 2000, DPDP Act 2023, CERT-In guidelines, risk assessment
 
 <div align="center">
 
@@ -97,54 +124,55 @@ Flask-based multi-scanner for crawling, feature extraction, and detection of SQL
 
 </div>
 
-## `// HANDS_ON_EXPERIENCE`
+// HANDS_ON_EXPERIENCE
 
-### Security Lab Practice - SOC & Digital Forensics
+Security Lab Practice - SOC & Digital Forensics
 
-**Independent / TryHackMe**
+Independent / TryHackMe
 
-- Practiced SOC Level 1 and Blue Team workflows including alert monitoring, triage, and SPL query writing in Splunk
-- Analyzed Windows Event Logs to trace lateral movement and identify malware indicators
-- Applied MITRE ATT&CK-mapped investigation and containment procedures
+Practiced SOC Level 1 and Blue Team workflows including alert monitoring, triage, and SPL query writing in Splunk
 
-### Full Stack Development Intern
+Analyzed Windows Event Logs to trace lateral movement and identify malware indicators
 
-**Livestream Technology, Coimbatore - June 2025**
+Applied MITRE ATT&CK-mapped investigation and containment procedures
 
-- Assisted with web application development, testing, debugging, documentation, and maintenance
+Full Stack Development Intern
 
-## `// EDUCATION_AND_CREDENTIALS`
+Livestream Technology, Coimbatore - June 2025
 
-**B.Sc. Computer Science (Digital Forensic Science & Cybersecurity) - 2026**  
-Rev. Jacob Memorial Christian College, Ambilikkai  
-Affiliated with Madurai Kamaraj University | **CGPA: 7.6**
+Assisted with web application development, testing, debugging, documentation, and maintenance
 
-### Certifications
+// EDUCATION_AND_CREDENTIALS
 
-- IBM zSystems Cybersecurity Insights Certification
-- Agentblazer Champion - Yuva AI Bharat (Generative AI & Enterprise AI)
+B.Sc. Computer Science (Digital Forensic Science & Cybersecurity) - 2026
+Rev. Jacob Memorial Christian College, Ambilikkai
+Affiliated with Madurai Kamaraj University | CGPA: 7.6
 
-### Achievements
+Certifications
 
-- R.V. Mahendra Kumar Memorial Prize
-- Triple First Class Award - Parts I-III
-- Semester II and III Proficiency Certificates - Madurai Kamaraj University, 2023-2026
+IBM zSystems Cybersecurity Insights Certification
 
-## `// OPERATING_PRINCIPLE`
+Agentblazer Champion - Yuva AI Bharat (Generative AI & Enterprise AI)
 
-```text
-MONITOR â†’ DETECT â†’ INVESTIGATE â†’ PRESERVE EVIDENCE â†’ RESPOND
-```
+Achievements
 
----
+R.V. Mahendra Kumar Memorial Prize
+
+Triple First Class Award - Parts I-III
+
+Semester II and III Proficiency Certificates - Madurai Kamaraj University, 2023-2026
+
+// OPERATING_PRINCIPLE
+
+MONITOR → DETECT → INVESTIGATE → PRESERVE EVIDENCE → RESPOND
 
 <div align="center">
 
-### `harini@soc:~$ connect --secure`
+harini@soc:~$ connect --secure
 
-**Open to SOC, cybersecurity, digital forensics, threat intelligence, and security analyst opportunities.**
+Open to SOC, cybersecurity, digital forensics, threat intelligence, and security analyst opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/hariniedward07) Â· [Email](mailto:hariniedward@gmail.com) Â· [Projects](https://github.com/hariniedward?tab=repositories)
+LinkedIn · Email · Projects
 
 <sub>EVIDENCE-DRIVEN // DETECTION-FOCUSED // READY TO LEARN</sub>
 
